@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "material_use": "json-server",
+      "invoice_date": "typicode",
+      "day": "",
+      "notes": ""
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "material_use": "mndc",
+      "invoice_date": "",
+      "day": "",
+      "notes": "lksvnck",
+      "id": 4
+    },
+    {
+      "material_use": "mndc",
+      "invoice_date": "",
+      "day": "",
+      "notes": "lksvnck",
+      "id": 5
+    },
+    {
+      "material_use": "mndc",
+      "invoice_date": "",
+      "day": "",
+      "notes": "lksvnck",
+      "id": 6
+    },
+    {
+      "material_use": "mndc",
+      "invoice_date": "",
+      "day": "",
+      "notes": "lksvnck",
+      "id": 7
+    },
+    {
+      "material_use": "",
+      "invoice_date": "",
+      "day": "",
+      "notes": "",
+      "id": 8
+    },
+    {
+      "material_use": "",
+      "invoice_date": "",
+      "day": "",
+      "notes": "",
+      "id": 9
+    }
+  ]
+}
