@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Card from 'react-bootstrap/Card'; 
 import Button from 'react-bootstrap/Button';
-import axios from 'axios'
 import { Row, Container, Form ,Col} from 'react-bootstrap';
 import {addInvoiceDataRequest} from './invoice'
 import {fetchInvoiceRequest} from './invoice'
@@ -42,7 +41,7 @@ class Dashboard extends Component {
 
           getInvoiceData = async () => {
             try {
-              let data = await fetchInvoiceRequest();
+             await fetchInvoiceRequest();
             } catch (error) {
               console.error(error.response);
             }

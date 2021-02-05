@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Dashboard from './dashboard';
 import 'bootstrap/dist/css/bootstrap.min.css';
