@@ -60,7 +60,7 @@ class Dashboard extends Component {
             <Form.Label>Id</Form.Label>
             <Form.Control
               type="text"
-              placeholder="First Name"
+              placeholder="id"
               onChange={this.changeHandler}
               name="id"
               value={this.state.id}
@@ -71,7 +71,7 @@ class Dashboard extends Component {
             <Form.Label>Material use</Form.Label>
             <Form.Control
               type="text"
-              placeholder="Last Name"
+              placeholder="material use"
               onChange={this.changeHandler}
               name="material_use"
               value={this.state.material_use}
@@ -81,7 +81,7 @@ class Dashboard extends Component {
             <Form.Label>invoice date</Form.Label>
             <Form.Control
               type="date"
-              placeholder="Email Address"
+              placeholder="date"
               onChange={this.changeHandler}
               name="invoice_date"
               value={this.state.invoice_date}
@@ -91,7 +91,7 @@ class Dashboard extends Component {
             <Form.Label>name</Form.Label>
             <Form.Control
               type="number"
-              placeholder="Phone Number"
+              placeholder="name"
               onChange={this.changeHandler}
               name="name"
               value={this.state.day}
